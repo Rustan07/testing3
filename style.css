@@ -1,0 +1,113 @@
+body {
+    background: linear-gradient(to right, rgb(181, 205, 221), rgb(50, 50, 49));
+    font-family: sans-serif;
+}
+
+/* Kalkulator */
+
+.kalku {
+    width: 360px;
+    border: none;
+    border-radius: 30px;
+    background: rgb(161, 222, 236);
+    margin: 100px auto;
+    padding: 20px 20px;
+}
+
+.judul {
+    font-size: 30px;
+    text-align: center;
+    margin-top: -2px;
+}
+
+.bil {
+    width: 300px;
+    border: none;
+    border-radius: 25px;
+    margin: 20px;
+    padding: 20px 10px;
+    font-size: 20px;
+}
+
+.opera {
+    width: 320px;
+    border: none;
+    border-radius: 25px;
+    margin: 20px;
+    padding: 20px 10px;
+    font-size: 20px;
+}
+
+.tombol {
+    width: 120px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: rgb(158, 190, 198) solid 3px;
+    border-radius: 25px;
+    margin: 20px 25px;
+    padding: 20px 10px;
+    font-size: 20px;   
+}
+
+.tombol:hover {
+    transform: translateY(-5px);
+}
+
+.hasil {
+    width: 300px;
+    border: none;
+    border-radius: 25px;
+    margin: 20px;
+    padding: 20px 10px;
+    font-size: 20px;
+    background: rgb(206, 212, 212);
+}
+
+.marq {
+    color: rgb(244, 92, 92);
+}
+
+.copyright {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.a {
+    color: black;
+    text-decoration: none;
+    margin: 350px;
+}
+
+/* Menu Utama */
+
+.menu {
+    width: 300px;
+    border: none;
+    border-radius: 30px;
+    background: rgb(161, 222, 236);
+    margin: 100px auto;
+    padding: 20px 20px;
+}
+
+.btn {
+    width: 200px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: rgb(158, 190, 198) solid 3px;
+    border-radius: 25px;
+    margin: 10px 45px;
+    padding: 20px 10px;
+    font-size: 20px;   
+}
+.btn:hover {
+    transform: translateY(-5px);
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+/* About */
